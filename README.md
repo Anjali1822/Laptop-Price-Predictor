@@ -44,8 +44,5 @@ There are a few columns which are categorical here but they actually contain num
 # Model Building
 ![Screenshot (90)](https://user-images.githubusercontent.com/97386407/191269612-c0385e02-d243-4ab9-80df-329c6f7f8454.png)
 
-# Model Deployment
-I have deployed the model using Streamlit library and flask framework on Heroku which is a Platform As A Service(PAAS)
-![Screenshot (88)](https://user-images.githubusercontent.com/97386407/191269794-f113517e-bf33-4f54-827c-305dba409b21.png)
 
 Web application: <a href="https://lapi-price-predictor.herokuapp.com/">https://lapi-price-predictor.herokuapp.com/</a>
